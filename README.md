@@ -43,4 +43,4 @@ Identified and documented 4 functional defects with:
 
 The complete test cases, bug reports, evidence, and test results are available in:
 
-**[Swag Labs Manual Testing Report](./Swag_Labs_Manual_Testing.pdf)**
+**[Swag Labs Manual Testing Report](./Portfolio-1.pdf)**
